@@ -1,7 +1,3 @@
-# Hello !
-<a href="https://t.me/breakdown21">
-  <img src="https://img.shields.io/badge/@breakdown21-blue?style=social&logo=Telegram"/></a>
-
 <p align="center">
     <img
         width="96%"
