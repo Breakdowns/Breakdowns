@@ -2,8 +2,6 @@
 <a href="https://t.me/breakdown21">
   <img src="https://img.shields.io/badge/@breakdown21-blue?style=social&logo=Telegram"/></a>
 
-![Hafitz's github stats](https://github-readme-stats.vercel.app/api?username=breakdowns&show_icons=true&theme=default&count_private=true)
-
 <p align="center">
 	<img width="40" src="https://github.githubassets.com/images/spinners/octocat-spinner-64.gif">
 <p align="center"><strong>We didn't receive a proper request from your browser.</strong></p>
@@ -16,6 +14,8 @@
 <p></p>
 <p></p>
 </p>
+
+![Hafitz's github stats](https://github-readme-stats.vercel.app/api?username=breakdowns&show_icons=true&theme=default&count_private=true)
 
 <p align="center">
     <img
